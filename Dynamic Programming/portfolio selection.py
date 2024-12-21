@@ -90,8 +90,8 @@ for w in range(5,-1,-1):
                                 V[i,j,k,l,w] = J
                                 a[i,j,k,l,w] = u1[m]
                                 aa[i,j,k,l,w] = u2[n]    
-        print(i)
-    print(w)
+        #print(i)
+    #print(w)
 
 c=50
 d=50
