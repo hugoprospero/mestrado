@@ -46,7 +46,7 @@ dt[1,0] = -0.08
 dt[1,1] = 0
 dt[1,2] = 0.14
 
-print("teste")
+#print("teste")
 
 for i in range(101):
     for j in range(101):
@@ -55,7 +55,7 @@ for i in range(101):
                 if (i+k)>100:
                     V[i,j,k,l,6] = -1000
 
-print("teste")
+#print("teste")
 
 
 
